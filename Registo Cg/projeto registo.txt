@@ -1,0 +1,18 @@
+2.Materiais criados
+vidro, com glowing effect
+prata transparente
+
+3.
+Vfx / pirilanpos/dust
+luzes adicionais
+Remocao dos manequins
+
+4.
+glowing
+noise
+transparencia
+gradients
+
+
+Dinamica adiocinal 
+z » zoom da camara
